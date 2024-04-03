@@ -1,0 +1,53 @@
+23 (flipped): good 36-41
+24: bad pose second to last 27-32
+25: good 55-60
+27 (flipped): good 54-59
+29 (flipped): good 30-35
+30: good 27-32
+31: bad pose second to last 27-32
+32: left and right foot swapped third image 28-33
+33: third and fourth -- feet swapped 31-36
+35 (flipped): good 30-35
+36 (flipped): good 25-30
+38: good 44-49
+39: good 35-40
+41: dunno 33-38
+42 (flipped): good 28-33
+45: Third and fourth -- feet swapped 55-60
+46 (flipped): good 51-56
+47: fine last image kinda janky 34-39
+48: fine 32-37
+49: good 20-25
+51 (flipped): feet swapped last two pics ??-??
+52: good 29-34
+53: good 25-30
+54 (flipped): feet swapped second to last 27-32
+55: good 11-16
+56 (flipped): feet swapped last two 33-38
+57: good 25-30
+58: good 18-23
+59 (flipped): feet swapped second to last 24-29
+60: first frame swapped, last frame wonky 14-19
+61: last three swapped 14-19
+62: third swapped 22-27
+63: good 21-26
+64 (flipped): last three swapped 16-21
+65: last one wonky 22-27
+66 (flipped) first and last swapped 31-36
+67: good 28-33
+68: good 21-26
+69: last two swapped 24-29
+70: good 28-33
+
+
+
+
+
+
+
+
+
+
+
+
+
